@@ -1653,7 +1653,7 @@ Keybinds.CustomKey.DOWN,
 Keybinds.CustomKey.LEFT,
 Keybinds.CustomKey.RIGHT,
 Keybinds.CustomKey.SPACE,
-Keybinds.CustomKey.X
+Keybinds.CustomKey.ENTER
 )
 Keybinds.setSimulatorKeymap(
 Keybinds.PlayerNumber.TWO,
